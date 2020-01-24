@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-class labevaluation
+class prime
 {
 public static void main(String[] args) {
 int i,j,isprime=0,sum=0;
